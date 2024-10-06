@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#6200EE</color>
+    <color name="switch_thumb_color">#FF5722</color>
+    <color name="switch_track_color">#FFC107</color>
+    <color name="gradient_start">#E3F2FD</color> <!-- Light blue -->
+    <color name="gradient_end">#E0F7FA</color>  <!-- Light cyan -->
+    <color name="color">#FF2700</color>
+    <!-- Background Color -->
+    <color name="backgroundTechSavvy">#F3F4F6</color> <!-- Light Grey for Background -->
+
+    <!-- Input Background Color -->
+    <color name="inputBackground">#FFFFFF</color> <!-- White for Input Fields -->
+
+    <!-- Border Color for Input Fields -->
+    <color name="borderColor">#CCCCCC</color> <!-- Light Gray Border -->
+
+    <!-- Button Color -->
+    <color name="buttonColor">#6200EE</color> <!-- Primary Purple Color for Buttons -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#212121</color>  <!-- White Color for Text -->
+    <color name="linkText">#6200EE</color> <!-- Purple Color for Links -->
+    <color name="quantumAmber50">#FFEA00</color> <!-- Amber Color -->
+</resources>

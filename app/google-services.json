@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "311725732035",
+    "firebase_url": "https://test-f6ef2-default-rtdb.firebaseio.com",
+    "project_id": "dummydatabase-432f3",
+    "storage_bucket": "dummydatabase-432f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311725732035:android:fcef6b41512c64a9aab276",
+        "android_client_info": {
+          "package_name": "com.example.smoothride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjO3T1FekpltMX2ftm3uIS7ccmPiJt8XQ",
+          "google_maps_key": "AIzaSyB__RzmQtaoiDqXLwnuw8ARjkoiKEbWnTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
